@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahilion&show_icons=true&locale=en&theme=dark" alt="mahilion" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahilion&theme=dark" alt="mahilion" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahilion&theme=dark" alt="mahilion" /></p>
